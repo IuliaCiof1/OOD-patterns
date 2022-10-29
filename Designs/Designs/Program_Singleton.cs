@@ -60,6 +60,5 @@ namespace Designs
             Console.ReadKey();
         }
 
-        
     }
 }
