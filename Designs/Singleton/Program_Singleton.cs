@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Designs
+namespace Singleton
 {
     /*A SIngleton is used to: 
       - ensure that a class has only one instance 
